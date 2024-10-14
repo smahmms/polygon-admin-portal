@@ -1,0 +1,2 @@
+(this["webpackJsonprilac-web"]=this["webpackJsonprilac-web"]||[]).push([[368],{2474:function(e,t,c){"use strict";c.r(t);var b=c(0),s=c(108),n=c(814),i=c(711),r=c(5);t.default=()=>{const e=Object(i.g)(),t=Object(s.b)();return Object(b.useEffect)((()=>{t(Object(n.b)()),e.push("/Adminlogin")}),[]),Object(r.jsx)(b.Fragment,{})}}}]);
+//# sourceMappingURL=368.d245c47d.chunk.js.map
